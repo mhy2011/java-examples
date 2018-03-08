@@ -1,3 +1,4 @@
 rootProject.name = 'java-examples'
 include 'concurrent-examples'
+include 'jvm-examples'
 
